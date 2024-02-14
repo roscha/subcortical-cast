@@ -2,4 +2,4 @@ scripts for the ongoing peer-review manuscript on the putamen and thalamus effec
 
 python scripts enable to produce the FC changes, the pulse voxel vise analysis with flexible HRF and the null testing
 
-iython notbook scripts uses the output of the python scripts to produce statistics and visualization for the different section of the manuscripts
+ipython notebook scripts use outputs of the python scripts to produce statistics and visualizations for the different section of the manuscripts
